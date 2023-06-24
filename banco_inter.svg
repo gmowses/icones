@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64.0px"
+   height="64.0px"
+   viewBox="0 0 64.0 64.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="banco_inter.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview273"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="12.703125"
+     inkscape:cx="31.96064"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid279" />
+  </sodipodi:namedview>
+  <defs
+     id="defs268" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g240"
+       transform="matrix(0.1246207,0,0,-0.12462069,-5.0918123,69.091841)">
+      <path
+         d="m 77.6307,332.4402 h 29.1561 V 221.4232 H 77.6307 Z"
+         style="fill:#f03d1e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path242" />
+      <path
+         d="M 163.9774,221.4232 H 134.261 v 108.4482 c 49.341,10.6129 97.4512,6.3595 97.8874,-34.3451 l 0.7946,-74.1031 h -30.2777 v 67.8762 c 0,6.6654 -3.7514,12.361 -9.8757,14.9924 -8.2187,3.5314 -18.7894,1.5251 -28.8122,1.3374 z"
+         style="fill:#f03d1e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path244" />
+      <path
+         d="m 251.5507,256.9893 c -0.2772,35.1209 1.0491,70.2422 0.2313,105.3635 l 29.5299,15.419 v -45.8835 h 37.3808 v -28.4092 h -37.2861 c 1.4409,-39.8573 -10.1681,-71.5977 37.2861,-50.0907 l 13.4583,-25.2312 c -12.2884,-7.0083 -25.9021,-9.8753 -40.1845,-10.6531 -6.806,-0.0145 -13.1646,1.5627 -19.0973,4.653 -13.3418,6.95 -21.1994,19.7893 -21.3185,34.8322"
+         style="fill:#f03d1e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path246" />
+      <path
+         d="m 401.3082,332.6953 c -66.0776,20.7742 -84.3903,-50.4675 -65.037,-88.5356 12.0696,-23.7416 42.9378,-32.2555 95.1196,-19.1682 l -8.8758,26.2488 c -24.1124,-4.4731 -42.7337,-7.8775 -54.807,3.0376 -8.1309,7.1433 -7.9926,17.479 -7.3364,31.4462 1.0837,20.531 29.3066,28.936 40.7605,12.5056 0.3932,-0.5641 0.4731,-1.2178 0.2923,-1.8811 -0.1812,-0.6636 -0.5925,-1.1648 -1.2076,-1.472 l -30.6867,-15.321 12.8959,-25.418 51.2099,25.418 c -0.0125,28.7402 -11.0707,44.6783 -32.3277,53.1397"
+         style="fill:#f03d1e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path248" />
+      <path
+         d="m 448.2122,220.3339 v 108.2154 c 21.2933,6.704 44.5255,7.5858 69.4324,3.458 l -8.8776,-27.8484 c -9.252,1.6608 -18.6406,4.1054 -30.8849,1.7756 l -0.0467,-85.6006 z"
+         style="fill:#f03d1e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path250" />
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,75.8049,352.7986)"
+         style="font-variant:normal;font-weight:bold;font-size:27.768px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#f03d1e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text254"><tspan
+           x="0 33.1464 66.292801 99.438904 132.5853"
+           y="0"
+           sodipodi:role="line"
+           id="tspan252">BANCO</tspan></text>
+    </g>
+  </g>
+</svg>
